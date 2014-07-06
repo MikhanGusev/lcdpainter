@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="ok_text_2.png">img/ok_text_2.png</file>
+        <file alias="not_text_2.png">img/not_text_2.png</file>
+        <file alias="save_area.png">img/save_area_1.png</file>
+        <file alias="save_all.png">img/save_all_1.png</file>
+        <file alias="clear_all.png">img/clear_all_1.png</file>
+        <file alias="area.png">img/area_1.png</file>
+    </qresource>
+</RCC>
